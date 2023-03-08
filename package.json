@@ -1,6 +1,5 @@
 {
   "name": "@blb-ventures/npm-lib-template",
-  "private": "true",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/index.js",
