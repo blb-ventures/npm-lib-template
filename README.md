@@ -17,11 +17,11 @@ This repo is a template for creating CommonJS and ESM packages using Typescript 
 - [ ] Update `src/external.ts` to include all the lib files
 - [ ] Update `src/index.ts` line 4 to export a named module (optional)
 - [ ] Update package.json
-  - [ ] Set the package name
-  - [ ] Set the package version
-  - [ ] Set the homepage
-  - [ ] Set the repository
-  - [ ] Set the bugs url
-  - [ ] Set the author
-  - [ ] Set the license
-  - [ ] Set the contributors
+  - [ ] Package name
+  - [ ] Package version
+  - [ ] Homepage
+  - [ ] Repository
+  - [ ] Bugs url
+  - [ ] Author
+  - [ ] License
+  - [ ] Contributors
