@@ -4,10 +4,10 @@ This repo is a template for creating CommonJS and ESM packages using Typescript 
 
 - It uses `tsc` to transpile to CommonJS and `rollup` to build the ESM packages.
 - Has a default MIT license
-- Eslint rules from [https://github.com/blb-ventures/eslint-config](@blb-ventures/eslint-config)
+- Eslint rules from [@blb-ventures/eslint-config](https://github.com/blb-ventures/eslint-config)
 - Prettier and EditorConfig
 - Github Actions with:
-  - Release: using [https://github.com/googleapis/release-please](release-please) that automates CHANGELOG generation
+  - Release: using [release-please](https://github.com/googleapis/release-please) that automates CHANGELOG generation
   - Testing: as a default it just run eslint
 
 ## Before Publish Checklist
